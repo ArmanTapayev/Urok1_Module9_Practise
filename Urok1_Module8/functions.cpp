@@ -51,6 +51,7 @@ void evenElem(int *mass, int row, int col)
 
 					//printf("%d\t", *(mass + i*row + j));
 				}
+
 				printf("\n");
 			}
 
